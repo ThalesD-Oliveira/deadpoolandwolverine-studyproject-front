@@ -1,5 +1,5 @@
 # Projeto de caso estudo do Deadpool & Wolverine
-![Imagem Deadpool e Wolverine](./assets/DeadpoolandWolverine.jpg)
+![Imagem Deadpool e Wolverine](./assets/Deadpoolandwolverine-readme.png)
 Este projeto consiste no desenvolvimento de um site comercial para compras únicas, sem a necessidade de um carrinho de compras. O sistema incluirá um painel de controle para cadastro de produtos, gerenciamento de estoque e outras funcionalidades relevantes.
 
 O front-end será desenvolvido em React, enquanto o back-end será construído em Python, hospedado em um repositório separado.
@@ -29,7 +29,7 @@ Este projeto tem como objetivo principal simular o dia a dia de empresas de pequ
 - Figma
 
 ## Tecnologias
-- Javadcript - React
+- Javascript - React
 - Python - Fastapi
 - Autenticação JWT
 - Painel administrativo
